@@ -616,6 +616,18 @@ int main() {
 
 `v1`和`v2`会像`const`一样自动判断类型
 
+
+
+**Lambda表达式和闭包（closure）**
+
+https://leimao.github.io/blog/CPP-Closure/
+
+
+
+
+
+
+
 ### 容器
 
 ### 智能指针和内存管理
